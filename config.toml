@@ -1,0 +1,16 @@
+baseurl = "http://example.org"
+title = "Netipun & Tanika"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->getting married<!--]--><br />'
+  logo = "fa-heart"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1

@@ -1,0 +1,22 @@
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #333333;
+  display: inline-block;
+}
+
+.dot#navy{
+	background-color: #184C7D;
+}
+
+.dot#grey{
+	background-color: #6C6F6F;
+}
+
+.dot#white{
+	background-color: #FEFEFE;
+}
