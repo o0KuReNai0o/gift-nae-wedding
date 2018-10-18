@@ -7,3 +7,5 @@ fields:
   name: drop_file_here
   label: drop file here
   hidden: true
+pages:
+- content/gallery.md
