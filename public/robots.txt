@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://o0kurenai0o.github.io/gift-nae-wedding//sitemap.xml
