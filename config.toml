@@ -1,5 +1,5 @@
-baseurl = "https://o0kurenai0o.github.io/gift-nae-wedding/"
-title = "Netipun & Tanika"
+baseurl = "https://gift-nae-wedding.firebaseapp.com"
+title = "Tanika & Netipun"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,7 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->getting married<!--]--><br />'
+  description = '<!--[-->are getting married<!--]--><br />'
+  description2 = '<!--[-->Start at 7:09 am<!--]--><br />'
   logo = "fa-heart"
 
 [languages]

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://o0kurenai0o.github.io/gift-nae-wedding//sitemap.xml
+Sitemap: https://gift-nae-wedding.firebaseapp.com/sitemap.xml
