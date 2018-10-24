@@ -4,8 +4,11 @@ hide_body: false
 is_partial: false
 fields:
 - type: image_gallery
-  name: drop_file_here
-  label: drop file here
+  name: gallery_upload
+  label: Gallery upload
   hidden: false
+- type: text
+  name: pic_name
+  label: Pic name
 pages:
 - content/gallery.md
