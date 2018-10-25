@@ -8,7 +8,9 @@ title = "image"
 +++
 ***
 
-title: Image image: "/img/banner.png" 
+title: "Image"
+pic_name: "AAA"
+image: "/img/banner.png" 
 layout: gallery 
 heading: Belkirk College 
 
