@@ -6,3 +6,10 @@ pic_name = "AAA"
 title = "image"
 
 +++
+***
+
+title: Image image: "/img/banner.png" 
+layout: gallery 
+heading: Belkirk College 
+
+***
