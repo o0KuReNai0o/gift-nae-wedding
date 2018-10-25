@@ -7,5 +7,5 @@ fields:
   name: pic_name
   label: Pic name
 - type: file
-  name: picture
-  label: picture
+  name: image
+  label: image
