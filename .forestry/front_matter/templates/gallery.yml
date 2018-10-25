@@ -3,12 +3,11 @@ label: Gallery
 hide_body: false
 is_partial: false
 fields:
-- type: image_gallery
-  name: gallery_upload
-  label: Gallery upload
-  hidden: false
 - type: text
   name: pic_name
   label: Pic name
+- type: file
+  name: picture
+  label: picture
 pages:
 - content/gallery.md
